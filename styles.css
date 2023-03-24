@@ -1,0 +1,19 @@
+@import url('https://fonts.google.com/specimen/Roboto');
+
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+
+        }
+}
+
+#cvimage {
+    margin-top: 60px;
+    height: 150px;
+
+}
+
+#title {
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
